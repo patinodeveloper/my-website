@@ -1,4 +1,3 @@
-import React from "react";
 import { NavbarView } from "./NavbarView";
 
 export const HeaderView = () => {
