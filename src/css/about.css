@@ -1,14 +1,3 @@
-:root {
-    --primary: #0088a9;
-    --secondary: #24252a;
-
-    --headingFont: "Poppins", sans-serif;
-    --textFont: "Roboto", sans-serif;
-
-    --color1: aqua;
-    --color2: blue;
-}
-
 /* About Me Section */
 .about {
     padding: 2rem 2rem;
