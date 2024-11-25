@@ -12,7 +12,7 @@ export const AboutMeSection = () => {
                     soluciones a los diversos desafíos que suelen surgir en el proceso de desarrollo,
                     me apasiona el desarrollo de software,
                     específicamente el desarrollo web enfocado en el Back-End y el desarrollo de API's,
-                    mi lenguaje fuerte de programación en Java y manejo diversas
+                    mi lenguaje fuerte de programación es Java y manejo diversas
                     tecnologías que me permiten desarrollar software de calidad, de manera efectiva y segura.
                 </p>
             </div>

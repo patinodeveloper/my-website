@@ -11,6 +11,12 @@ export const HeroView = () => {
                         <p>¡Hola!, mi nombre es José Antonio Patiño Galicia, soy estudiante
                             y desarrollador de software :)
                         </p>
+                        <a
+                            href="https://drive.google.com/uc?export=download&id=1xnP0G6wMpOVtoTtNulgTMBCv-IK99cSt"
+                            className="hero__button"
+                        >
+                            Descargar CV
+                        </a>
                     </div>
                 </div>
             </div>
