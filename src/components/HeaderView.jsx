@@ -11,7 +11,7 @@ export const HeaderView = () => {
                 </a>
 
                 <NavbarView />
-                <a className="cta" href="#">Contáctame</a>
+                <a className="cta" href="#contact">Contáctame</a>
             </header>
         </>
     );
