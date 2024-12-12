@@ -12,7 +12,7 @@ export const HeroView = () => {
                             y desarrollador de software :)
                         </p>
                         <a
-                            href="https://drive.google.com/uc?export=download&id=1xnP0G6wMpOVtoTtNulgTMBCv-IK99cSt"
+                            href="https://drive.google.com/uc?export=download&id=1BHMUUZl7KZU2ZZtymZgPw5TJ6L-wG3Gs"
                             className="hero__button"
                         >
                             Descargar CV
